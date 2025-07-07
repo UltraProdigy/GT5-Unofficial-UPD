@@ -186,7 +186,7 @@ public class MetaGeneratedGregtechItems extends GTMetaItemX32 {
         GregtechItemList.Cover_Overflow_Valve_LV.set(
             this.addItem(
                 Cover_Overflow_Valve_LV.ID,
-                "Overflow Valve (LV)",
+                "Void Overflow Valve (LV)",
                 "Maximum void amount: 64,000",
                 getTcAspectStack(TCAspects.ELECTRUM, 1L),
                 getTcAspectStack(TCAspects.MACHINA, 1L),
@@ -196,7 +196,7 @@ public class MetaGeneratedGregtechItems extends GTMetaItemX32 {
         GregtechItemList.Cover_Overflow_Valve_MV.set(
             this.addItem(
                 Cover_Overflow_Valve_MV.ID,
-                "Overflow Valve (MV)",
+                "Void Overflow Valve (MV)",
                 "Maximum void amount: 512,000",
                 getTcAspectStack(TCAspects.ELECTRUM, 1L),
                 getTcAspectStack(TCAspects.MACHINA, 1L),
@@ -206,7 +206,7 @@ public class MetaGeneratedGregtechItems extends GTMetaItemX32 {
         GregtechItemList.Cover_Overflow_Valve_HV.set(
             this.addItem(
                 Cover_Overflow_Valve_HV.ID,
-                "Overflow Valve (HV)",
+                "Void Overflow Valve (HV)",
                 "Maximum void amount: 4,096,000",
                 getTcAspectStack(TCAspects.ELECTRUM, 1L),
                 getTcAspectStack(TCAspects.MACHINA, 1L),
@@ -216,7 +216,7 @@ public class MetaGeneratedGregtechItems extends GTMetaItemX32 {
         GregtechItemList.Cover_Overflow_Valve_EV.set(
             this.addItem(
                 Cover_Overflow_Valve_EV.ID,
-                "Overflow Valve (EV)",
+                "Void Overflow Valve (EV)",
                 "Maximum void amount: 32,768,000",
                 getTcAspectStack(TCAspects.ELECTRUM, 1L),
                 getTcAspectStack(TCAspects.MACHINA, 1L),
@@ -226,7 +226,7 @@ public class MetaGeneratedGregtechItems extends GTMetaItemX32 {
         GregtechItemList.Cover_Overflow_Valve_IV.set(
             this.addItem(
                 Cover_Overflow_Valve_IV.ID,
-                "Overflow Valve (IV)",
+                "Void Overflow Valve (IV)",
                 "Maximum void amount: 262,144,000",
                 getTcAspectStack(TCAspects.ELECTRUM, 1L),
                 getTcAspectStack(TCAspects.MACHINA, 1L),
