@@ -16,7 +16,7 @@ import gregtech.api.util.GTOreDictUnificator;
 public class AlloySmelterRecipes implements Runnable {
 
     private final MaterialStack[][] mAlloySmelterList = {
-        { new MaterialStack(Materials.Tetrahedrite, 3L), new MaterialStack(Materials.Tin, 1L),
+        { new MaterialStack(Materials.Tetrahedrite, 2L), new MaterialStack(Materials.Tin, 1L),
             new MaterialStack(Materials.Bronze, 3L) },
         { new MaterialStack(Materials.Tetrahedrite, 3L), new MaterialStack(Materials.Zinc, 1L),
             new MaterialStack(Materials.Brass, 3L) },
